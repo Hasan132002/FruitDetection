@@ -1,2 +1,10 @@
-# FruitDetection
-Detecting Items by uploading Image
+<!-- Classification
+
+  ```
+  pip install -r requirements.txt
+  ```
+
+  streamlit run Fruits_Vegetable_Classification.py
+  ```
+
+ -->
